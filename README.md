@@ -2,6 +2,8 @@
 
 YouPulseBot ربات یوپالس is Telegram based robot to providing entertainment services(Music,Movies,Books,Cartoons,Jokes, and more...) for it's users for FREE and best QUALITY!
 
+ربات یوپالس یک ربات تحت تلگرامی برای فراهم آوردن سرویس های(دانلود و جستجو) موزیک-فیلم سینمایی-کارتون-کتاب و ...هست.
+
 Link: https://t.me/YouPulseBot
 
 +++ A lot of feature such as:
